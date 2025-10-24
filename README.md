@@ -72,3 +72,9 @@ Pull requests and suggestions are welcome!
 Open an issue to discuss proposed changes.
 
 ---
+
+## 🧠 License
+
+This project is licensed under [The Unlicense](LICENSE).
+
+---
